@@ -1,0 +1,46 @@
+*{font-family:helvetica;}
+
+h1.pagetitle{
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url("../images/tilepattern.jpeg");
+   }
+
+
+h3{
+  color:black;
+}
+
+.brushes{
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: mediumspringgreen;
+}
+
+.frames{
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: lightcoral;
+}
+
+.paints{
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: skyblue;
+}
+
+
+p.description{
+  color:black;
+  font-weight: lighter;
+}
+
+
+strong{
+  color:blue;
+}
